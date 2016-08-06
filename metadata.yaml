@@ -1,0 +1,48 @@
+_repo: The-Uprising-of-a-Great-PeopleThe-United-States-in-1861.-to-Which-is-Added-a-Word-of-Peace-on__10637
+_version: 0.0.1
+alternative_title: États-Unis en 1861. English
+contributor:
+  translator:
+    agent_name: Booth, Mary L. (Mary Louise)
+    alias: Booth, Mary Louise
+    birthdate: 1831
+    deathdate: 1889
+    gutenberg_agent_id: '4864'
+    url: http://www.gutenberg.org/2009/agents/4864
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louise_Booth
+creator:
+  author:
+    agent_name: Gasparin, Agénor, comte de
+    aliases:
+    - Gasparin, Agenor Etienne, comte de
+    - Gasparin, Agenor, comte de
+    - Gasparin, Agénor Étienne, comte de
+    - De Gasparin, Agénor, comte
+    birthdate: 1810
+    deathdate: 1871
+    gutenberg_agent_id: '3614'
+    url: http://www.gutenberg.org/2009/agents/3614
+    wikipedia: http://de.wikipedia.org/wiki/Ag%C3%A9nor_%C3%89tienne_de_Gasparin
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcc 'E456'
+- !lcsh 'Trent Affair, 1861'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcsh 'United States -- Description and travel'
+- GITenberg
+title: 'The Uprising of a Great People
+
+  The United States in 1861. to Which is Added a Word of Peace on the Difference Between
+  England the United States.'
+url: http://www.gutenberg.org/ebooks/10637
